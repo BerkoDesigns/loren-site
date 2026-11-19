@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": "welcome",
+      "title": "Welcome",
+      "date": "2026-11-18",
+      "summary": "A sample post so the blog has something on it. Replace it with your own words.",
+      "published": true,
+      "body": "This is a sample post. Replace it with your own writing.\n\nPosts are plain paragraphs. Leave a blank line between paragraphs to start a new one."
+    }
+  ]
+}
